@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi!
 
 I'm a software engineer with a passion for crafting innovative solutions and bringing ideas to life through code. I thrive in dynamic and challenging environments, constantly seeking opportunities to learn and grow.
 
