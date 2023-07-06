@@ -1,5 +1,3 @@
-### Hi!
-
 I'm a software engineer with a passion for crafting innovative solutions and bringing ideas to life through code. I thrive in dynamic and challenging environments, constantly seeking opportunities to learn and grow.
 
 Throughout my career, I have developed expertise in various programming languages, frameworks, and technologies. From front-end development with HTML, CSS, and JavaScript to back-end systems with Python, Express, SQLAlchemy, I enjoy working with diverse tech stacks to create robust and scalable software solutions. I have experience in developing web applications, utilizing industry best practices and following agile methodologies to deliver high-quality products.
